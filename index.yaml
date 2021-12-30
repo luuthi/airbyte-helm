@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   airbyte:
   - apiVersion: v2
-    appVersion: 0.35.1-alpha
+    appVersion: 0.33.5-alpha
     created: "2021-12-27T18:51:42.105541285+07:00"
     dependencies:
     - name: common
